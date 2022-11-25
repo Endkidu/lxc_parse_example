@@ -7,9 +7,11 @@ Created on Thu Nov 24 23:33:39 2022
 
 To do (optional):
 
-    pydantic
-    click
+    Asynchronous requests
+    BitSwanPump
     comment
+    click
+    pydantic
     unit test
 
 """
