@@ -1,3 +1,0 @@
-# TeskaLabs Interview project
-
-Readme
